@@ -113,16 +113,14 @@ header img:hover {
 
 .address {
   color: #000000;
-  text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
-  background: rgba(0,0,0,0.3);
+  /* Remove: background: rgba(0,0,0,0.3); */
   padding: 0.5rem 1rem;
   border-radius: 6px;
 }
 
 .tagline {
   color: #000000;
-  text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
-  background: rgba(0,0,0,0.3);
+  /* Remove: background: rgba(0,0,0,0.3); */
   padding: 0.5rem 1rem;
   border-radius: 6px;
 }
@@ -367,5 +365,6 @@ button:hover {
   box-shadow: 0 8px 25px rgba(74, 144, 226, 0.3);
 
 }
+
 
 
