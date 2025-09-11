@@ -112,16 +112,24 @@ header img:hover {
 }
 
 .address {
+  color: #000000;
+  /* DELETE: background: rgba(0,0,0,0.3); */
+  /* DELETE: padding: 0.5rem 1rem; */
+  /* DELETE: border-radius: 6px; */
+  /* DELETE: text-shadow: 2px 2px 4px rgba(0,0,0,0.8); */
   font-size: 1.1rem;
-  color: #000000; /* Only change this line from white to black */
   margin: 1.5rem auto;
   font-weight: 400;
   max-width: 500px;
 }
 
 .tagline {
+  color: #000000;
+  /* DELETE: background: rgba(0,0,0,0.3); */
+  /* DELETE: padding: 0.5rem 1rem; */
+  /* DELETE: border-radius: 6px; */
+  /* DELETE: text-shadow: 2px 2px 4px rgba(0,0,0,0.8); */
   font-size: 1.3rem;
-  color: #000000; /* Only change this line from white to black */
   font-style: italic;
   max-width: 650px;
   margin: 2rem auto;
@@ -369,6 +377,7 @@ button:hover {
   box-shadow: 0 8px 25px rgba(74, 144, 226, 0.3);
 
 }
+
 
 
 
